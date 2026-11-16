@@ -1,7 +1,7 @@
 <ivy-module version="2.0">
-    <info organisation="prom" module="NewPackageIvy" revision="latest">
+    <info organisation="prom" module="PatternMining" revision="latest">
     	<description>
-    		Version 6.16.6
+    		Version 6.16.1
     	</description>
     </info>
     <configurations>
