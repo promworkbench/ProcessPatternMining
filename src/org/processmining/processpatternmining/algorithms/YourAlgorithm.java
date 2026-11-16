@@ -1,10 +1,10 @@
-package org.processmining.patternminingpads.algorithms;
+package org.processmining.processpatternmining.algorithms;
 
 import org.processmining.framework.plugin.PluginContext;
-import org.processmining.patternminingpads.models.YourFirstInput;
-import org.processmining.patternminingpads.models.YourOutput;
-import org.processmining.patternminingpads.models.YourSecondInput;
-import org.processmining.patternminingpads.parameters.YourParameters;
+import org.processmining.processpatternmining.models.YourFirstInput;
+import org.processmining.processpatternmining.models.YourOutput;
+import org.processmining.processpatternmining.models.YourSecondInput;
+import org.processmining.processpatternmining.parameters.YourParameters;
 
 public class YourAlgorithm {
 

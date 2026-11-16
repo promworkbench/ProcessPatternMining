@@ -1,10 +1,10 @@
-package org.processmining.patternminingpads.connections;
+package org.processmining.processpatternmining.connections;
 
 import org.processmining.framework.connections.impl.AbstractConnection;
-import org.processmining.patternminingpads.models.YourFirstInput;
-import org.processmining.patternminingpads.models.YourOutput;
-import org.processmining.patternminingpads.models.YourSecondInput;
-import org.processmining.patternminingpads.parameters.YourParameters;
+import org.processmining.processpatternmining.models.YourFirstInput;
+import org.processmining.processpatternmining.models.YourOutput;
+import org.processmining.processpatternmining.models.YourSecondInput;
+import org.processmining.processpatternmining.parameters.YourParameters;
 
 public class YourConnection extends AbstractConnection {
 

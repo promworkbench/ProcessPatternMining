@@ -8,11 +8,11 @@
 	<property name="dist" location="dist" />
 	<property name="release" location="latestrelease" />
 	<property name="version" value="${env.major_minor}.${env.GITHUB_RUN_NUMBER}" />
-	<property name="project" value="PatternMiningPADS" />
+	<property name="project" value="ProcessPatternMining" />
 
 	<property name="author" value="Viki Peeva" />
 	<property name="organization" value="PADS RWTH Aachen" />
-	<property name="description" value="PatternMiningPADS" />
+	<property name="description" value="ProcessPatternMining" />
 	<!-- See https://svn.win.tue.nl/trac/prom/browser/Packages/ProM-Contexts/Trunk/src/org/processmining/contexts/uitopia/packagemanager/PMPackageView.java for a list of known licenses. -->
 	<property name="license" value="GPL" />
 	<property name="logo" value="prom_subtitle_hat_300.png" />

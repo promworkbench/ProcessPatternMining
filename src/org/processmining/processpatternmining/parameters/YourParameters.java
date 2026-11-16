@@ -1,8 +1,8 @@
-package org.processmining.patternminingpads.parameters;
+package org.processmining.processpatternmining.parameters;
 
 import org.processmining.basicutils.parameters.impl.PluginParametersImpl;
-import org.processmining.patternminingpads.models.YourFirstInput;
-import org.processmining.patternminingpads.models.YourSecondInput;
+import org.processmining.processpatternmining.models.YourFirstInput;
+import org.processmining.processpatternmining.models.YourSecondInput;
 
 public class YourParameters extends PluginParametersImpl {
 

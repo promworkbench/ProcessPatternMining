@@ -1,4 +1,4 @@
-package org.processmining.patternminingpads.models;
+package org.processmining.processpatternmining.models;
 
 
 public class YourOutput {
