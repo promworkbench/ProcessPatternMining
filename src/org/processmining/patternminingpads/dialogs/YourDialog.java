@@ -1,4 +1,4 @@
-package org.processmining.patternmining.dialogs;
+package org.processmining.patternminingpads.dialogs;
 
 import info.clearthought.layout.TableLayout;
 import info.clearthought.layout.TableLayoutConstants;
@@ -21,9 +21,9 @@ import javax.swing.event.ListSelectionListener;
 
 import org.processmining.contexts.uitopia.UIPluginContext;
 import org.processmining.framework.util.ui.widgets.ProMList;
-import org.processmining.patternmining.models.YourFirstInput;
-import org.processmining.patternmining.models.YourSecondInput;
-import org.processmining.patternmining.parameters.YourParameters;
+import org.processmining.patternminingpads.models.YourFirstInput;
+import org.processmining.patternminingpads.models.YourSecondInput;
+import org.processmining.patternminingpads.parameters.YourParameters;
 
 import com.fluxicon.slickerbox.components.NiceSlider;
 import com.fluxicon.slickerbox.components.NiceSlider.Orientation;

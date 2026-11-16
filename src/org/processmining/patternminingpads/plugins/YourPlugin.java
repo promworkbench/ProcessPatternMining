@@ -1,4 +1,4 @@
-package org.processmining.patternmining.plugins;
+package org.processmining.patternminingpads.plugins;
 
 import java.util.Collection;
 
@@ -9,14 +9,14 @@ import org.processmining.framework.connections.ConnectionCannotBeObtained;
 import org.processmining.framework.plugin.PluginContext;
 import org.processmining.framework.plugin.annotations.Plugin;
 import org.processmining.framework.plugin.annotations.PluginVariant;
-import org.processmining.patternmining.algorithms.YourAlgorithm;
-import org.processmining.patternmining.connections.YourConnection;
-import org.processmining.patternmining.dialogs.YourDialog;
-import org.processmining.patternmining.help.YourHelp;
-import org.processmining.patternmining.models.YourFirstInput;
-import org.processmining.patternmining.models.YourOutput;
-import org.processmining.patternmining.models.YourSecondInput;
-import org.processmining.patternmining.parameters.YourParameters;
+import org.processmining.patternminingpads.algorithms.YourAlgorithm;
+import org.processmining.patternminingpads.connections.YourConnection;
+import org.processmining.patternminingpads.dialogs.YourDialog;
+import org.processmining.patternminingpads.help.YourHelp;
+import org.processmining.patternminingpads.models.YourFirstInput;
+import org.processmining.patternminingpads.models.YourOutput;
+import org.processmining.patternminingpads.models.YourSecondInput;
+import org.processmining.patternminingpads.parameters.YourParameters;
 
 @Plugin(name = "Your plug-in name", parameterLabels = { "Name of your first input", "Name of your second input", "Name of your parameters" }, 
 	    returnLabels = { "Name of your output" }, returnTypes = { YourOutput.class }, help = YourHelp.TEXT)

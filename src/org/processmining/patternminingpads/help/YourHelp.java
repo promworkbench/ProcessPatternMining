@@ -1,4 +1,4 @@
-package org.processmining.patternmining.help;
+package org.processmining.patternminingpads.help;
 
 public class YourHelp {
 
